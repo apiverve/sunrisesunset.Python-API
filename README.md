@@ -47,7 +47,7 @@ Using the API client, you can perform requests to the API.
 ###### Define Query
 
 ```
-query = { "lat": 36.7201600,  "lon": -4.4203400,  "date": "08-20-2024" }
+query = { "lat": 36.7201600,  "lon": -4.4203400,  "date": "03-28-2025" }
 ```
 
 ###### Simple Request
@@ -67,19 +67,19 @@ print(result)
   "status": "ok",
   "error": null,
   "data": {
-    "solarNoon": "2024-08-14T12:23:43.452Z",
-    "sunrise": "2024-08-14T05:35:40.906Z",
-    "sunset": "2024-08-14T19:11:45.997Z",
-    "sunriseEnd": "2024-08-14T05:38:29.019Z",
-    "sunsetStart": "2024-08-14T19:08:57.884Z",
-    "dawn": "2024-08-14T05:08:07.373Z",
-    "dusk": "2024-08-14T19:39:19.531Z",
-    "nauticalDawn": "2024-08-14T04:34:57.098Z",
-    "nauticalDusk": "2024-08-14T20:12:29.806Z",
-    "nightEnd": "2024-08-14T03:59:54.62Z",
-    "night": "2024-08-14T20:47:32.284Z",
-    "goldenHourEnd": "2024-08-14T06:11:09.003Z",
-    "goldenHour": "2024-08-14T18:36:17.901Z"
+    "solarNoon": "2025-02-20T12:32:53.132Z",
+    "sunrise": "2025-02-20T07:01:34.082Z",
+    "sunset": "2025-02-20T18:04:12.182Z",
+    "sunriseEnd": "2025-02-20T07:04:17.987Z",
+    "sunsetStart": "2025-02-20T18:01:28.278Z",
+    "dawn": "2025-02-20T06:35:17.568Z",
+    "dusk": "2025-02-20T18:30:28.696Z",
+    "nauticalDawn": "2025-02-20T06:05:07.51Z",
+    "nauticalDusk": "2025-02-20T19:00:38.754Z",
+    "nightEnd": "2025-02-20T05:35:08.859Z",
+    "night": "2025-02-20T19:30:37.405Z",
+    "goldenHourEnd": "2025-02-20T07:36:59.509Z",
+    "goldenHour": "2025-02-20T17:28:46.756Z"
   },
   "code": 200
 }
@@ -107,7 +107,7 @@ All usage of the APIVerve website, API, and services is subject to the [APIVerve
 ## License
 Licensed under the The MIT License (MIT)
 
-Copyright (&copy;) 2024 APIVerve, and Evlar LLC
+Copyright (&copy;) 2025 APIVerve, and EvlarSoft LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
